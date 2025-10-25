@@ -1,0 +1,9 @@
+{
+	"name": "smrazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6aa97a8a-aab7-49ab-b027-85bcb40bc81f",
+		"tenantId": "ee0acb77-2cac-4d14-8e37-7f90308a0dc4"
+	}
+}
